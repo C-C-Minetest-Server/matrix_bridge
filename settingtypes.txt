@@ -1,0 +1,2 @@
+# The URL to the communication server.
+matrix_bridge.local_server (Matrix Bridge local server URL) string
